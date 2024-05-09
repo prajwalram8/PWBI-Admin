@@ -1,0 +1,2 @@
+,requestId,id,refreshType,startTime,endTime,status,refreshAttempts
+0,76c3ab8a-8a7d-4465-b813-8c8400edd5bb,300050721,OnDemand,2024-01-04T07:32:55.827Z,2024-01-04T07:33:27.5Z,Completed,"[{'attemptId': 1, 'startTime': '2024-01-04T07:32:55.888497Z', 'endTime': '2024-01-04T07:33:27.2327469Z', 'type': 'Data'}, {'attemptId': 1, 'startTime': '2024-01-04T07:33:27.2327469Z', 'endTime': '2024-01-04T07:33:27.4046252Z', 'type': 'Query'}]"

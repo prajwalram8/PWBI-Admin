@@ -1,0 +1,2 @@
+,@odata.context,days,times,enabled,localTimeZoneId,notifyOption
+0,http://wabi-north-europe-l-primary-redirect.analysis.windows.net/v1.0/myorg/$metadata#Microsoft.PowerBI.ServiceContracts.Api.V1.RefreshSchedule,"['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']",['06:00'],True,Arabian Standard Time,MailOnFailure
